@@ -26,7 +26,7 @@ export const COMPANY_DATA = {
     },
     hrContact: {
         "name": "Satheesha",
-        "email": "satheesha@synclovis.com",
+        "email": "hr@synclovis.com",
         "phone": "123-456-7890",
     },
     services: [
