@@ -13,6 +13,19 @@ An intelligent command-line AI assistant powered by GPT-4 that helps users inter
 - 📆 Date and weekday utilities
 - 💬 Natural language interaction
 
+## Demo
+
+Watch how the Synclovis AI Assistant handles various queries and tasks:
+
+[![Synclovis AI Assistant Demo](https://img.youtube.com/vi/03ytP-FopuM/0.jpg)](https://youtu.be/03ytP-FopuM)
+
+This demo shows:
+- Checking office hours and HR availability
+- Getting company service information
+- Scheduling appointments
+- Email notifications
+- Natural conversation flow
+
 ## Prerequisites
 
 - Node.js (v20.0.0 or higher)
@@ -129,6 +142,7 @@ Synclovis Systems
 ## Support
 
 For support, email contact@synclovis.com or raise an issue in the repository.
+
 
 
 ---

@@ -47,7 +47,7 @@ export async function agent(userInput, iterationCount = 0, maxIterations = 6) {
         const functionToCall = availableTools[functionName];
         const functionArgs = JSON.parse(message.tool_calls[0].function.arguments);
         const functionArgsArr = Object.values(functionArgs);
-        // console.log("Calling function: ", functionName, " with arguments: ", functionArgsArr);
+         console.log("Calling function: ", functionName, " with arguments: ", functionArgsArr);
         
         const functionResponse = await functionToCall(...functionArgsArr);
     
